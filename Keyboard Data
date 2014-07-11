@@ -1,9 +1,31 @@
-Target Language: ISO 639-3 code (Multibles)
-Target Script: ISO for this from Scriptsource
-Creator: Name_______
+Credits Metadata:
+Keyboard Designer:__________
+Designer Link:_________
+In system Creator: Name_______
+Creator Link:_________
 Version:____________
-Date:_______________
+Original Creation Date:_______________
+Last Modification Date:_______________
+Default OS:____________
+Defalut OS version start:___________
+Defalut OS version stop:___________
+
+Description Metadata
+Keyboard layout name:____________
+Target Language: ISO 639-3 code (Multibles if necessary)
+Target Script: ISO for this from Scriptsource
+Suggested Use:_______
+
+Image and analysis based Metadata
 Key Arangement: ISO, ANSI, JIS, Maltron, Kinesis
 Length: Basic (no keypad), Extended (function keys/keypad)
 Default layout: QWERTY, Dvorak, Workman, Norman, Colemak, BÉPO, AZERTY, QWERTZ, Neo, QZERTY, Arabic-OSX, Arabic-Windows, Japanese, Russian, Mongolian, Custom
 States: Default, Shift, Ctl, Alt, Alt-Gr, Jap Char1, Jap Char2, Vedor key, Deadkey(n), Shift + Alt, Ctl + Alt, Alt + Alt + Alt-Gr
+
+
+
+Credits:
+
+---
+The `Keyboard layout name` was designed by `Designer` in `Original Creation Date`. This image created here was created by `Creator` on `Last Modification Date`. This layout is typically found on `Default OS` `Defalut OS version start` - `Defalut OS version stop`.
+The Dvorak Keyboard layout image was designed by A. Dvorak in 1934. his image created here was created by Joseph on 15 June 2014. This layout is typically found on Windows XP - 8.
